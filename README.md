@@ -22,3 +22,8 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+<!-- blog-post-workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
