@@ -24,6 +24,6 @@ Here are some ideas to get you started: -->
  -->
 
 <!-- blog-post-workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
-# Blog posts
+<!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
