@@ -42,6 +42,7 @@ Here are some ideas to get you started: -->
 </a>
 
 <br />
+<br />
 
 <a href="https://github.com/tddschn/todo-cli-typer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=todo-cli-typer" />
