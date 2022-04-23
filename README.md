@@ -44,8 +44,8 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-<a href="https://github.com/tddschn/todo-cli-typer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=todo-cli-typer" />
+<a href="https://github.com/tddschn/todo-cli-tddschn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=todo-cli-tddschn" />
 </a>
 <a href="https://github.com/tddschn/homebrew-alfred">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=homebrew-alfred" />
