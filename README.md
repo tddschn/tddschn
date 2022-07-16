@@ -37,9 +37,9 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/tddschn/git-pp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=git-pp" />
 </a>
-<a href="https://github.com/tddschn/ucsd-cse-158-assignments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=ucsd-cse-158-assignments" />
-</a>
+<!-- <a href="https://github.com/tddschn/ucsd-cse-158-assignments"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tddschn&repo=ucsd-cse-158-assignments" /> -->
+<!-- </a> -->
 
 <br />
 <br />
