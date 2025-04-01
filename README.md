@@ -61,7 +61,9 @@ Here are some ideas to get you started: -->
 <!-- <br /> -->
 <!-- <br /> -->
 
-#### My GitHub Stats
+#### My GitHub Stats (For Public Repos Only)
+
+I do extensive data analysis and frontend work in private repos.
 
 <!-- do not use dark theme! -->
 [![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tddschn&count_private=true&show_icons=true)](#)
